@@ -1,0 +1,11 @@
+{
+  "name": "E15",
+  "version": "1.0.0",
+  "description": "OpenNuvoton N76E003 BSP",
+  "keywords": [
+    "framework",
+    "hal",
+    "stm8",
+    "st"
+  ]
+}
